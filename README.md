@@ -3,5 +3,5 @@ SW TASK CODE
 This is my task code 
 ## OPERATING SYSTEM
 > fork()
-Create child Process 
+<pre><code>Create child Process</code></pre>
 ## DATA STRRUCTURES
